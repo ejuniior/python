@@ -4,7 +4,6 @@ A3 = float(input('Nota do 3:\n'))
 A4 = float(input('Nota do 4:\n'))
 
 media = (A1+A2+A3+A4)/4
-+str()
 if media <0 or media > 10:
   print('Valor invalido.')
 else:
