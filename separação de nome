@@ -1,0 +1,7 @@
+#SEPARAÇÃO DE NOME
+
+First_name = "Juniior" 
+Last_name = "Farias"
+full_name = First_name +" "+ Last_name 
+
+print("Hello \n"+full_name) 
