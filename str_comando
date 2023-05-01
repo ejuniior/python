@@ -1,0 +1,3 @@
+#STR DAR COMANDO PARA COMPUTADOR MONSTRAR PARA O USUARIO
+idade = 27
+print("Sua idade é: "+str(idade))
